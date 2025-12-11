@@ -28,7 +28,6 @@ st.set_page_config(page_title="SpamSentry",page_icon="📨")
 style = '''
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-        header {visibility: hidden;}
         html, body, [class*="css"], h1, h2, h3, h4, h5 {
             font-family: "Montserrat", sans-serif !important;
             font-optical-sizing: auto;

@@ -29,14 +29,13 @@ style = '''
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
         header {visibility: hidden;}
-        html, body, [class*="css"], h1,h2,h3,h4,h5 {
-            font-family: "Montserrat", sans-serif;
+        html, body, [class*="css"], h1, h2, h3, h4, h5 {
+            font-family: "Montserrat", sans-serif !important;
             font-optical-sizing: auto;
             font-weight: 400;
             font-style: normal;
         }
-        section[data-testid="stSidebar"] div.stButton button,
-        section[data-testid="stSidebar"] div.stLinkButton a {
+        section[data-testid="stSidebar"] div.stElementContainer {
             width: 100%;
             text-align: left;
             justify-content: left;

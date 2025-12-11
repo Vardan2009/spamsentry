@@ -39,6 +39,9 @@ style = '''
             text-align: left;
             justify-content: left;
         }
+        button[aria-label="Fullscreen"] {
+            display: none;
+        }
     </style>
 '''
 

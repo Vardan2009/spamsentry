@@ -1,7 +1,7 @@
-# SpamSentry Spam Message detection Algorithm
+# SpamSentry -- Spam Message detection
 ![logo](./logo.png)
 
-A simple machine learning algorithm created for a workshop in TUMO Yerevan
+A simple machine learning model created for a workshop in TUMO Yerevan
 
 ### Credits
 
